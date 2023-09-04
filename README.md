@@ -2,7 +2,7 @@
 
 The College Placement Portal is a web technology project with the aim of providing the college, a placement portal so that the students can easily get the notifications on job releases and apply, prepare for the test and interviews with the resources provided.
 
-**GETTING STARTED**
+**Getting Started:**
 
 1. Install XAMPP.
 
@@ -25,9 +25,11 @@ The College Placement Portal is a web technology project with the aim of providi
 10. Open any browser and type http://localhost/placement-portal.
 
 
-Resources
+**Resources:**
 
 1. https://stackoverflow.com/  <br/>
 2. https://github.com/<br/>
 3. https://tailwindcss.com/<br/>
 4. https://getbootstrap.com/
+
+**Hosted Website:** https://necn-placement.000webhostapp.com/
